@@ -75,7 +75,7 @@ const theme = darkMode ? darkTheme : lightTheme;
                         <p className={`mb-6 sm:mb-8 leading-relaxed max-w-md sm:max-w-lg ${theme.textSecondary}`}
                         data-aos="fade-up"
                         data-aos-delay="600">
-                           Fast learning, UI obsessed Frontend Developer with hands on experience building responsive,
+                           I'm a fast learning, UI obsessed Frontend Developer with hands on experience building responsive,
                             accessible, and user friendly applications across hackathons
                              and real world projects. Skilled in React, TailwindCSS, 
                              and API integration. Passionate about solving problems, 

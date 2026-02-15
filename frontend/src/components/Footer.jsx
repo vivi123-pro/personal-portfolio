@@ -75,8 +75,8 @@ text-white dark:text-white">
           </div>
           <div className="text-center md:text-right">
            <p className="text-sm flex items-center justify-end gap-1 text-[#6b7280] dark:text-[#9ca3af]">
-            @ {currentYear} Made with <FaHeart className="text-red-500"/> by <span
-            className="mt-1 text-[f97316]">Vivipro </span>
+            &copy; {currentYear} <span
+            className="mt-1 text-[f97316]"> Vivipro | All rights reserved.</span>
            </p>
           </div>
         </div>

@@ -164,9 +164,9 @@ const Navbar = ({darkMode, toggleDarkMode}) => {
                 className={`absolute top-full left-0 right-0 mt-2 lg:hidden
                 ${
                     darkMode
-                    ? "bg-gray-900/95"
-                    :  "bg-white/95"
-                }backdrop-blur-lg rounded-xl shadow-lg border ${
+                    ? "bg-gray-900"
+                    :  "bg-white"
+                } rounded-xl shadow-lg border ${
                     darkMode ? "border-gray-700" : "border-gray-300"
                 }`}>
                     <div className="px-4 py-3 space-y-2">
